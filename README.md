@@ -1,33 +1,24 @@
-# :blush: Oie, me chamo Sofia
-Sou uma pessoa **extrovertida**, com muita **curiosidade** em aprender cada vez mais, atualmente estou no 3° semestre de Ciência da Computação.
-Meu comprometimento com a excelência acadêmica e minha paixão por resolver problemas complexos me impulsionam a buscar oportunidades desafiadoras. 
 
-## :shipit: Soft Skills:
-- Liderança
-- Comunicação
-- Organização
-- Criatividade
-- Responsabilidade
-- Cooperatividade
+# :blush: Olá, eu sou a Sofia
 
-## :space_invader: Hard Skills:
-- Inglês
-- Linguagem Java
-- Linguagem Python
-- Bootstrap
-- Power Bi
-- Power Apps
-- Canva
+### :spades: Sobre mim
+* Jovem aprendiz Tec. Desenvolvimento de Sistemas - CPTM e SENAI
+* 4° semestre cursando Ciência da Computação - Cruzeiro do Sul
+ 
+## :computer: Tecnologias
+- HTML, CSS, JavaScript, Bootstrap, React.js
+- Java, C++, Pyhton
+- PostgreSQL, MySql
+- Power Bi, Power Apps
+- Git, Github
+- Pacote Office, Canva
 
-[Meu perfil no linkedin](https://www.linkedin.com/in/sofia-leiva-pires-56918529a/)
+## :iphone: Entre em contato
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sofialeiva____/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-leiva-pires-56918529a/)
 
-Um dos meus últimos projetos foi realizado em bootstrap, foi realizado um site para um restaurante:
-[Restaurante Taste Heaven](sofialeivapires.github.io/tasteheaven/)
-
-
-
-
-<!---
-SofiaLeivaPires/SofiaLeivaPires is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## :space_invader: Projetos
+- [Restaurante Taste Heaven](sofialeivapires.github.io/tasteheaven/)
+- [Clínica PetCare](sofialeivapires.github.io/petcare/)
+- [Cadastro de Cliente Pizzaria](https://sofialeivapires.github.io/Pizzaria/)
+- [Site CPTM](https://sofialeivapires.github.io/cptm-principal/index.html)
